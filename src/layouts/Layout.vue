@@ -14,6 +14,7 @@
                     <a href="#Home" class="navBttn">HOME</a>
                     <a href="#About" class="navBttn">ABOUT</a>
                     <a href="" class="navBttn">CONTACT US</a>
+                    <a href="#SearchListings" class="navBttn">LISTINGS</a>
                     <a href="" class="navBttn">MENU</a>
                 </div>
             </nav>
