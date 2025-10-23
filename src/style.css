@@ -1,6 +1,6 @@
 @import "tailwindcss";  
 @tailwind utilities;
-/* src/assets/main.css */
+
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
@@ -14,7 +14,7 @@
   }
 }
 .navBttn{
-    @apply relative  duration-500  font-light text-base uppercase
+    @apply relative  duration-500  font-extralight  text-base uppercase
          after:content-[''] after:absolute after:-bottom-1 after:right-0
          after:h-[2px] after:w-full after:bg-black
          after:origin-right after:scale-x-0 after:transition-transform after:duration-500

@@ -8,45 +8,47 @@
         
     </div> -->
 
-    <div class="flex justify-between min-h-screen text-3xl text-black bg-white bg-center bg-cover p-15 gap-50">
-        <div class="pl-0 pr-0 md:pl-15 md:pr-15">
-            <h1 class="pt-5 font-serif text-5xl text-black">MARCI METZGER</h1>
-             <p class="pb-5 text-lg text-gray-600">
-             206-919-6886   
-            </p>
-            <section class="max-w-5xl px-6 mx-auto leading-relaxed text-gray-800">
-            
-                <div class="space-y-6 text-lg">
-                    <p>
-                    For nearly three decades, <strong>Marci Metzger</strong> has built a legacy of excellence in real estate—grounded in trust, expertise, and results. As the driving force behind <strong>The Ridge Realty Group</strong>, a premier brokerage based in <strong>Southern Nevada</strong>, Marci and her team have earned a reputation for delivering exceptional client experiences and record-breaking results.
-                    </p>
+   <div class="flex flex-col lg:flex-row justify-between min-h-screen text-3xl text-black bg-white bg-center bg-cover px-[5%] py-[5%] gap-[5%]">
+  
+  <div class="flex flex-col lg:flex-row justify-between w-full bg-[#FAF9F6] p-0 m-0">
+    
+    <!-- Left Text Section -->
+    <div class="w-full lg:w-70% px-[5%] lg:px-[8%]">
+      <h1 class="pt-10 font-serif text-4xl text-black md:pt-20 md:text-5xl lg:text-6xl">
+        MARCI METZGER
+      </h1>
+      <p class="pb-5 text-base text-gray-700 md:text-lg">
+        # 206-919-6886
+      </p>
 
-                    <p>
-                    Over the past five years, Marci and her team have consistently ranked among the top residential producers in the region—helping nearly <strong>90 clients in 2021</strong> alone and closing over <strong>$28.5 million in sales</strong>. Their continued success is driven by a relentless commitment to growth, market insight, and integrity.
-                    </p>
+      <section class="max-w-5xl mx-auto leading-relaxed text-gray-800 text-wrap">
+        <div class="space-y-3 text-base md:text-lg">
+          <p>
+            For nearly three decades, <strong>Marci Metzger</strong> has built a legacy of excellence in real estate—grounded in trust, expertise, and results. As the driving force behind <strong>The Ridge Realty Group</strong>, a premier brokerage based in <strong>Southern Nevada</strong>, Marci and her team have earned a reputation for delivering exceptional client experiences and record-breaking results.
+          </p>
 
-                    <p>
-                    At The Ridge, it’s not just about listing properties—it’s about <strong>getting them sold</strong>. Every listing benefits from strategic marketing, expert negotiation, and maximum exposure to ensure top value. Buyers, meanwhile, gain a trusted partner who knows the local market inside and out, offering personalized guidance, market analysis, upgrade advice, and access to trusted contractors.
-                    </p>
-                     <button class="px-10 py-3 my-2 text-lg tracking-widest text-gray-700 uppercase transition outline-2 font-base hover:outline-0 hover:bg-gray-700 hover:text-gray-300">
-                    Contact me!
-                    </button>
-                        <!-- <p class="text-lg text-gray-800">
-                        <strong>Contact me:</strong> 0909-123-4567
-                        </p> -->
-                </div>
-            </section>
+          <p>
+            Over the past five years, Marci and her team have consistently ranked among the top residential producers in the region—helping nearly <strong>90 clients in 2021</strong> alone and closing over <strong>$28.5 million in sales</strong>. Their continued success is driven by a relentless commitment to growth, market insight, and integrity.
+          </p>
 
+          <p>
+            At The Ridge, it’s not just about listing properties—it’s about <strong>getting them sold</strong>. Every listing benefits from strategic marketing, expert negotiation, and maximum exposure to ensure top value. Buyers, meanwhile, gain a trusted partner who knows the local market inside and out, offering personalized guidance, market analysis, upgrade advice, and access to trusted contractors.
+          </p>
+
+          <button class="px-10 py-3 my-2 text-base tracking-widest text-gray-700 uppercase transition md:text-lg outline-2 font-base hover:outline-0 hover:bg-gray-700 hover:text-gray-300">
+            Learn more
+          </button>
         </div>
-            
-                <img src="/images/pic1.jpg"
-                class="block pt-3 pr-0 mx-auto h-150 md:pr-15">
-
-
-        
+      </section>
     </div>
-    <div class="relative min-h-screen text-3xl text-black bg-gray-400 bg-center bg-cover ">
-        <h1 class="font-bold text-black text-7xl">JFNA FAJL JSK F</h1>
-        acsfccs
+
+    <!-- Right Image Section -->
+    <div class="relative w-full lg:w-[900px] h-[60vh] lg:h-[800px] overflow-hidden">
+      <img src="/images/pic1.jpg"
+           class="absolute inset-0 object-cover w-full h-full transition-transform duration-500 ease-in-out hover:scale-110">
     </div>
+
+  </div>
+</div>
+
 </template>
