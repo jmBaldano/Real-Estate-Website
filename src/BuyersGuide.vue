@@ -23,7 +23,7 @@
         <div class="absolute inset-0 flex w-full h-full transition duration-300 bg-center bg-cover bg-black/50 hover:bg-black/70"></div>
 
         <div class="absolute flex p-4 pointer-events-none top-4 left-4 md:top-6 md:left-6 bg-black/50">
-            <h1 class="font-serif text-2xl text-white sm:text-3xl md:text-4xl">Top Residential Sales Last 5 Years</h1>
+            <h1 class="font-serif text-2xl text-white sm:text-3xl md:text-4xl ">Top Residential Sales Last 5 Years</h1>
         </div>
 
         <div class="absolute flex bg-black/50 p-4 pointer-events-none bottom-8 left-4 md:left-6 md:bottom-10 w-[85%] sm:w-[600px] md:w-[800px]">
