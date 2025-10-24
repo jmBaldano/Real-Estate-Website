@@ -28,6 +28,13 @@
          after:origin-right after:scale-x-0 after:transition-transform after:duration-500
          hover:after:scale-x-100 hover:after:origin-left;
 }
+.logoLine{
+  @apply relative duration-500
+        after:content-[''] after:absolute after:-bottom-1 after:right-0
+         after:h-[2px] after:w-full after:bg-white
+         after:origin-right after:scale-x-0 after:transition-transform after:duration-500
+         hover:after:scale-x-100 hover:after:origin-left;
+}
 
 .main-container {
         height: 100vh;

@@ -1,5 +1,5 @@
 <template>
-    <a href="#Home"><img src="/images/logo1.png" class="block mx-auto max-w-[250px] md:max-w-[350px] h-auto md:pl-0 pb-10"></a>
+    <a href="#Home"><img src="/images/logo1.png" class=" block mx-auto max-w-[250px] md:max-w-[350px] h-auto md:pl-0 mb-10 transition transform duration-500 border-x-1 hover:border-transparent  border-white"></a>
     <h1 class="pb-10 font-serif text-2xl md:text-5xl text-center text-white">PHOTO GALLERY</h1>
     <div id="indicators-carousel" class="relative mx-auto w-full max-w-[1200px]" data-carousel="slide">
     <!-- Carousel wrapper -->
