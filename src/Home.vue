@@ -5,7 +5,7 @@
   
     <!-- Background image -->
 <div class="absolute inset-0 bg-center bg-cover"
-     :style="{ backgroundImage: 'url(/images/bg.jpg)', backgroundAttachment: 'fixed' }">
+     :style="{ backgroundImage: 'url(/Real-Estate-Website/images/bg.jpg)', backgroundAttachment: 'fixed' }">
 </div>
 
 <!-- Radial gradient overlay -->

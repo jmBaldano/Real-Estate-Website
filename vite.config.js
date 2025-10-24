@@ -8,6 +8,7 @@ import 'flowbite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: 'Real-Estate-Website',
   plugins: [
     vue(),
     vueDevTools(),

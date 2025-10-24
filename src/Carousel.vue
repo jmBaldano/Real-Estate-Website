@@ -32,32 +32,32 @@
     </div>
     <!-- Slider indicators -->
     <div class="absolute z-30 flex space-x-3 -translate-x-1/2 md:top-103 bottom-6 left-1/2 ">
-    <button type="button" class="relative w-12 h-12 overflow-hidden rounded cursor-pointer" aria-current="true" aria-label="Slide 1" data-carousel-slide-to="0">
-        <img src="/images/carousel1.png" class="object-cover w-full h-full rounded">
+    <button type="button" class="relative w-12 h-12 overflow-hidden cursor-pointer" aria-current="true" aria-label="Slide 1" data-carousel-slide-to="0">
+        <img src="/images/carousel1.png" class="object-cover w-full h-full ">
          <div class="absolute inset-0 bg-black/50 hover:bg-black/10 overlay"></div>
     </button>
-    <button type="button" class="relative w-12 h-12 overflow-hidden rounded cursor-pointer" aria-current="false" aria-label="Slide 2" data-carousel-slide-to="1">
-        <img src="/images/carousel2.png" class="object-cover w-full h-full rounded ">
+    <button type="button" class="relative w-12 h-12 overflow-hidden cursor-pointer" aria-current="false" aria-label="Slide 2" data-carousel-slide-to="1">
+        <img src="/images/carousel2.png" class="object-cover w-full h-full ">
             <div class="absolute inset-0 bg-black/50 hover:bg-black/10 overlay"></div>
     </button>
-    <button type="button" class="relative w-12 h-12 overflow-hidden rounded cursor-pointer" aria-current="false" aria-label="Slide 3" data-carousel-slide-to="2">
-        <img src="/images/carousel3.jpg" class="object-cover w-full h-full rounded ">
+    <button type="button" class="relative w-12 h-12 overflow-hidden cursor-pointer" aria-current="false" aria-label="Slide 3" data-carousel-slide-to="2">
+        <img src="/images/carousel3.jpg" class="object-cover w-full h-full ">
             <div class="absolute inset-0 bg-black/50 hover:bg-black/10 overlay"></div>
     </button>
-    <button type="button" class="relative w-12 h-12 overflow-hidden rounded cursor-pointer" aria-current="false" aria-label="Slide 4" data-carousel-slide-to="3">
-        <img src="/images/carousel4.png" class="object-cover w-full h-full rounded ">
+    <button type="button" class="relative w-12 h-12 overflow-hiddencursor-pointer" aria-current="false" aria-label="Slide 4" data-carousel-slide-to="3">
+        <img src="/images/carousel4.png" class="object-cover w-full h-full">
             <div class="absolute inset-0 bg-black/50 hover:bg-black/10 overlay"></div>
     </button>
-    <button type="button" class="relative w-12 h-12 overflow-hidden rounded cursor-pointer" aria-current="false" aria-label="Slide 5" data-carousel-slide-to="4">
-        <img src="/images/carousel5.png" class="object-cover w-full h-full rounded ">
+    <button type="button" class="relative w-12 h-12 overflow-hiddencursor-pointer" aria-current="false" aria-label="Slide 5" data-carousel-slide-to="4">
+        <img src="/images/carousel5.png" class="object-cover w-full h-full">
             <div class="absolute inset-0 bg-black/50 hover:bg-black/10 overlay"></div>
     </button>
-    <button type="button" class="relative w-12 h-12 overflow-hidden rounded cursor-pointer" aria-current="false" aria-label="Slide 6" data-carousel-slide-to="5">
-        <img src="/images/carousel6.png" class="object-cover w-full h-full rounded ">
+    <button type="button" class="relative w-12 h-12 overflow-hiddencursor-pointer" aria-current="false" aria-label="Slide 6" data-carousel-slide-to="5">
+        <img src="/images/carousel6.png" class="object-cover w-full h-full">
             <div class="absolute inset-0 bg-black/50 hover:bg-black/10 overlay"></div>
     </button>
-    <button type="button" class="relative w-12 h-12 overflow-hidden rounded cursor-pointer" aria-current="false" aria-label="Slide 7" data-carousel-slide-to="6">
-        <img src="/images/carousel7.png" class="object-cover w-full h-full rounded " >
+    <button type="button" class="relative w-12 h-12 overflow-hidden cursor-pointer" aria-current="false" aria-label="Slide 7" data-carousel-slide-to="6">
+        <img src="/images/carousel7.png" class="object-cover w-full h-full " >
             <div class="absolute inset-0 bg-black/50 hover:bg-black/10 overlay"></div>
     </button>
 </div>
