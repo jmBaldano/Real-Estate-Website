@@ -23,6 +23,7 @@ const closeMenu = () => {
                     <a href="#Home" class="navBttn">HOME</a>
                     <a href="#About" class="navBttn">ABOUT</a>
                     <a href="#SearchListings" class="navBttn">LISTINGS</a>
+                    <a href="#Services" class="navBttn">Services</a>
                     <a href="#Contact" class="navBttn">CONTACT</a>
 
                 </div>
@@ -46,6 +47,7 @@ const closeMenu = () => {
       <a href="#Home" @click="closeMenu" class="block px-4 py-3 font-light text-gray-900 rounded-lg line ">HOME</a>
       <a href="#About" @click="closeMenu" class="block px-4 py-3 font-light text-gray-900 rounded-lg line ">ABOUT</a>
       <a href="#SearchListings" @click="closeMenu" class="block px-4 py-3 font-light text-gray-900 rounded-lg line ">LISTINGS</a>
+      <a href="#Services" @click="closeMenu" class="block px-4 py-3 font-light text-gray-900 rounded-lg line ">SERVICES</a>
       <a href="#Contact" @click="closeMenu" class="block px-4 py-3 font-light text-gray-900 rounded-lg line ">CONTACT</a>
     </nav>
   </div>
