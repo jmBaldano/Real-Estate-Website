@@ -1,8 +1,8 @@
 <template>
     <h1 class="pb-10 font-serif text-5xl text-center text-white">PHOTO GALLERY</h1>
-<div id="indicators-carousel" class="relative mx-auto w-200" data-carousel="slide">
+<div id="indicators-carousel" class="relative mx-auto w-full max-w-[1200px]" data-carousel="slide">
     <!-- Carousel wrapper -->
-    <div class="relative md:w-full w-200 h-56 mx-auto overflow-hidden md:h-[400px]">
+    <div class="relative md:w-full w-full max-w-[1200px] h-56 mx-auto overflow-hidden md:h-[400px]">
          <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
             <img src="/images/carousel1.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
