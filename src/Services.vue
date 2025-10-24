@@ -1,5 +1,6 @@
 <template>
-        <section class="flex flex-col items-center gap-16 p-6 bg-[#d3d3d3]">
+        <section class="flex flex-col items-center  bg-[#d3d3d3]">
+  <h1 class="text-center font-serif text-4xl p-10">OUR SERVICES</h1>
   <div class="flex flex-col items-center w-full gap-8 md:flex-row">
     <figure class="flex-1">
       <img src="/images/services2.png" alt="Service 1" class="object-cover w-full h-64 transition duration-300 transform hover:scale-105">
@@ -20,7 +21,7 @@
     </div>
   </div>
 
-  <div class="flex flex-col items-center w-full gap-8 md:flex-row">
+  <div class="flex flex-col items-center w-full gap-8 md:flex-row pb-20">
     <figure class="flex-1">
       <img src="/images/services1.jpg" alt="Service 3" class="object-cover w-full h-64 transition duration-300 transform hover:scale-105 ">
     </figure>
