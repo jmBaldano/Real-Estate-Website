@@ -8,12 +8,15 @@ import 'flowbite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Real-Estate-Website/',
+  base: '/',
   plugins: [
     vue(),
     vueDevTools(),
     tailwindcss(),
   ],
+  build: {
+    outDir: 'dist', 
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))

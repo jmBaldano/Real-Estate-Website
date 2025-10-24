@@ -29,7 +29,7 @@ const closeMenu = () => {
                 <!-- hamburger design -->
                 <button @click="toggleMenu" class="p-2 transition-colors rounded-full md:hidden hover:bg-white/10">
 
-                    <div class="flex flex-col items-center justify-center w-6 h-6 pl-40 md:pl-0">
+                    <div class="flex flex-col items-center justify-center cursor-pointer w-6 h-6 pl-40 md:pl-0">
                         <span class="block w-5 h-0.5 bg-black mt-1 transition-all duration-300" :class="{ 'rotate-45  translate-y-1.5': isMenuOpen }"></span>
                         <span class="block w-5 h-0.5 bg-black mt-1 transition-all duration-100" :class="{ 'opacity-0': isMenuOpen }"></span>
                         <span class="block w-5 h-0.5 bg-black mt-1 transition-all duration-500" :class="{ '-rotate-45 -translate-y-1.5': isMenuOpen }"></span>
