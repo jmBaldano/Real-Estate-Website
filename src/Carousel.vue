@@ -1,6 +1,7 @@
 <template>
+    <a href="#Home"><img src="/images/logo1.png" class="block mx-auto max-w-[250px] md:max-w-[350px] h-auto md:pl-0 pb-10"></a>
     <h1 class="pb-10 font-serif text-2xl md:text-5xl text-center text-white">PHOTO GALLERY</h1>
-<div id="indicators-carousel" class="relative mx-auto w-full max-w-[1200px]" data-carousel="slide">
+    <div id="indicators-carousel" class="relative mx-auto w-full max-w-[1200px]" data-carousel="slide">
     <!-- Carousel wrapper -->
     <div class="relative md:w-full w-full max-w-[1200px] h-56 mx-auto overflow-hidden md:h-[400px]">
          <!-- Item 1 -->

@@ -18,7 +18,7 @@ import Location from './Location.vue'
         <section id="BuyersGuide" class="min-h-screen pt-0"><BuyersGuide /> </section>
         <section id="SearchListings" class="min-h-screen pt-0"><SearchListings /> </section>
         <section id="LogoScroll" class="pt-0 pb-20"><LogoScroll /> </section>
-        <section id="Carousel" class="py-20 bg-black/90 "><Carousel /> </section>
+        <section id="Carousel" class="py-15 pb-20 bg-black/90 "><Carousel /> </section>
         <section id="Services" class="min-h-screen pt-0"><Services /> </section>
         <section id="Contact" class="min-h-screen pt-0"><Contact /> </section>
         <section id="Location" class="min-h-screen pt-0"><Location /> </section>

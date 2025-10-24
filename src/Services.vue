@@ -1,5 +1,5 @@
 <template>
-        <section class="flex flex-col gap-10 items-center  bg-[#d3d3d3]">
+        <section class="flex flex-col gap-10 items-center  bg-[#ffff]">
   <h1 class="text-center font-serif text-4xl p-10">OUR SERVICES</h1>
   <div class="flex flex-col items-center w-full gap-8 md:flex-row">
     <figure class="flex-1">

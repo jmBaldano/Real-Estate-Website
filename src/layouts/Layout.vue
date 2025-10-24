@@ -13,7 +13,7 @@ const closeMenu = () => {
 </script>
 <template>
     <div class="relative ">
-        <header class="fixed top-0 left-0 z-50 w-full bg-white">
+        <header class="fixed top-0 left-0 z-50 w-full bg-[#d3d3d3]">
             <nav class="flex items-center justify-between p-0 mx-auto text-sm text-center text-black pr-25">
                 <div class="pt-0 ">
                     <a href="#Home"><img src="/images/logo.png"
