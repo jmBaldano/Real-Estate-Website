@@ -83,7 +83,7 @@ import LogoCarousel from './layouts/LogoCarousel.vue';
 
           <!-- Submit Button -->
           <div class="text-right">
-            <button type="submit" class="px-6 py-2 text-black transition duration-300 transform outline-1 hover:bg-gray-700 hover:text-white">
+            <button type="submit" class="px-6 cursor-pointer py-2 text-black transition duration-300 transform outline-1 hover:bg-gray-700 hover:text-white">
               Search
             </button>
           </div>

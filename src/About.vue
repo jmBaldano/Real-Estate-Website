@@ -35,7 +35,7 @@
             At The Ridge, it’s not just about listing properties—it’s about <strong>getting them sold</strong>. Every listing benefits from strategic marketing, expert negotiation, and maximum exposure to ensure top value. Buyers, meanwhile, gain a trusted partner who knows the local market inside and out, offering personalized guidance, market analysis, upgrade advice, and access to trusted contractors.
           </p>
 
-          <button class="px-10 py-3 my-2 text-base tracking-widest text-gray-700 uppercase transition md:text-lg outline-2 font-base hover:outline-0 hover:bg-gray-700 hover:text-gray-300">
+          <button class="px-10 cursor-pointer py-3 my-2 text-base tracking-widest text-gray-700 uppercase transition md:text-lg outline-2 font-base hover:outline-0 hover:bg-gray-700 hover:text-gray-300">
             Learn more
           </button>
         </div>
