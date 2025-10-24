@@ -13,7 +13,7 @@ import Location from './Location.vue'
 <template>
 <Layout>
     <main class="mt-0">
-        <section id="Home" class="relative min-h-screen py-8 mx-auto"><Home /> </section>
+        <section id="Home" class="relative h-[500px] md:min-h-screen py-8 mx-auto"><Home /> </section>
         <section id="About" class="min-h-screen pt-0"><About /> </section>
         <section id="BuyersGuide" class="min-h-screen pt-0"><BuyersGuide /> </section>
         <section id="SearchListings" class="min-h-screen pt-0"><SearchListings /> </section>

@@ -11,12 +11,13 @@ import LogoCarousel from './layouts/LogoCarousel.vue';
 
     <!-- Title -->
     <div class="relative text-4xl text-center h-[20%] flex items-center justify-center">
-      <h1 class="font-serif text-white pt-[5%] text-xl sm:text-2xl md:text-4xl">Find Your Dream Home</h1>
+      <h1 class="font-serif text-white pt-[5%] md:pt-[20%] text-xl sm:text-2xl md:text-4xl">Find Your Dream Home</h1>
     </div>
 
     <!-- Form container -->
     <div class="absolute w-[90%] sm:w-3/4 md:w-1/2 left-1/2 transform -translate-x-1/2 mt-[5%] h-[70%]">
-      <div class="max-w-4xl p-4 bg-white shadow-md sm:p-6">
+      <div class="max-w-4xl p-4 mt-0 md:mt-30 bg-white shadow-md sm:p-6">
+      <h2 class="text-center text-3xl font-serif text-gray-600">Search Listings</h2>
         <form class="flex flex-col gap-6 pt-10">
 
           <!-- Column 1: 3 dropdowns -->
