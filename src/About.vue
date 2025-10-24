@@ -10,7 +10,7 @@
 
    <div class="flex flex-col lg:flex-row justify-between min-h-screen text-3xl text-black bg-white bg-center bg-cover px-[5%] py-[5%] gap-[5%]">
   
-  <div class="flex flex-col lg:flex-row justify-between w-full bg-[#FAF9F6] p-0 m-0">
+  <div class="flex flex-col-reverse lg:flex-row justify-between w-full bg-[#FAF9F6] p-0 m-0">
     
     <!-- Left Text Section -->
     <div class="w-full lg:w-70% px-[5%] lg:px-[8%]">
