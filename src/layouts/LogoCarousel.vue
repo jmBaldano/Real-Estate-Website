@@ -9,15 +9,15 @@
       <div
         v-for="n in repeatCount"
         :key="n"
-        class="flex gap-100"
-        :class="n !== 1 ? 'ml-150' : ''"
+        class="flex md:gap-70 gap-25"
+        :class="n !== 1 ? 'ml-187': ''"
       >
         <img
           v-for="(logo, index) in logos"
           :key="index + '-' + n"
           :src="logo"
           alt="Logo"
-          class="flex-shrink-0 object-contain h-16"
+          class="flex-shrink-0 object-contain h-15 md:h-25"
         />
       </div>
     </div>

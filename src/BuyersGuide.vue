@@ -19,7 +19,7 @@
 
         <!--First Section -->
         <div class="relative w-[90%] sm:w-[700px] md:w-[900px] lg:w-[1200px] h-[250px] sm:h-[280px] md:h-[300px]">
-        <img src="/images/guidePic1.png" class="object-cover w-full h-full pl-100" />
+        <img src="/images/guidePic1.png" class="object-cover w-full h-full pl-0 md:pl-100" />
         <div class="absolute inset-0 flex w-full h-full transition duration-300 bg-center bg-cover bg-black/50 hover:bg-black/70"></div>
 
         <div class="absolute flex p-4 pointer-events-none top-4 left-4 md:top-6 md:left-6 bg-black/50">
@@ -38,7 +38,7 @@
 
         <!--Second Section -->
         <div class="relative w-[90%] sm:w-[700px] md:w-[900px] lg:w-[1200px] h-[250px] sm:h-[280px] md:h-[300px]">
-            <img src="/images/guidePic2.png" class="object-cover w-full h-full pr-100" />
+            <img src="/images/guidePic2.png" class="object-cover w-full h-full pr-0 md:pr-100" />
             <div class="absolute inset-0 flex w-full h-full transition duration-300 bg-center bg-cover bg-black/50 hover:bg-black/70">
             </div>
             <div class="inset-0">
@@ -57,7 +57,7 @@
 
         <!--Third Section -->
         <div class="relative w-[90%] sm:w-[700px] md:w-[900px] lg:w-[1200px] h-[250px] sm:h-[280px] md:h-[300px]">
-        <img src="/images/guidePic3.png" class="object-cover w-full h-full pl-100" />
+        <img src="/images/guidePic3.png" class="object-cover w-full h-full pl-0 md:pl-100" />
         <div class="absolute inset-0 flex w-full h-full transition duration-300 bg-center bg-cover bg-black/50 hover:bg-black/70"></div>
 
         <div class="absolute flex p-4 pointer-events-none top-4 left-4 md:top-6 md:left-6 bg-black/50">

@@ -1,14 +1,4 @@
 <script setup>
-import { ref } from 'vue'
-const isMenuOpen = ref(false)
-
-const toggleMenu = () => {
-  isMenuOpen.value = !isMenuOpen.value
-}
-
-const closeMenu = () => {
-  isMenuOpen.value = false
-}
 </script>
 
 <template>
@@ -27,7 +17,7 @@ const closeMenu = () => {
 <!-- Content -->
 <div class="absolute flex items-center justify-start min-h-screen w-[90%] md:w-[80%] lg:w-[70%] px-[5%] md:px-[8%] text-white">
   <div class="text-left">
-    <p class="font-serif text-[6vw] md:text-[4vw] lg:text-[3vw] leading-tight">
+    <p class="font-serif text-[6vw] md:text-[4vw] lg:text-[5vw] leading-tight">
       PAHRUMP REALTOR
     </p>
     <h1 class="pt-4 text-[3vw] md:text-[1.8vw] font-light">

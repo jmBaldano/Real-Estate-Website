@@ -7,5 +7,11 @@ import About from './About.vue'
 import BuyersGuide from './BuyersGuide.vue'
 import SearchListings from './SearchListings.vue'
 import LogoCarousel from './layouts/LogoCarousel.vue'
+import Carousel from './Carousel.vue'
+import LogoScroll from './LogoScroll.vue'
+import Services from './Services.vue'
+import Contact from './Contact.vue'
+import Location from './Location.vue'
+import 'flowbite'
 
 createApp(Root).mount('#root')

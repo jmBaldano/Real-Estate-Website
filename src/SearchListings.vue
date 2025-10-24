@@ -3,7 +3,7 @@ import LogoCarousel from './layouts/LogoCarousel.vue';
 </script>
 
 <template>
-  <div class="relative w-full h-[200px] sm:h-[500px] md:h-[350px]">
+  <div class="relative w-full h-[200px] sm:h-[500px]  md:h-[600px]">
     <!-- Background image -->
     <div class="absolute inset-0 bg-center bg-cover bg-[url('/images/bg2.jpg')]"></div>
     <!-- Overlay -->
@@ -72,11 +72,11 @@ import LogoCarousel from './layouts/LogoCarousel.vue';
             </div>
             <div class="flex flex-col flex-1">
               <label class="text-gray-700 font-extralight">Min Price</label>
-              <input type="text" placeholder="" class="p-2 duration-300 border-b border-gray-300 focus:outline-none focus:ring-1 focus:ring-black">
+              <input type="text" placeholder="" class="p-2 duration-300 transform border-0 border-b border-gray-300 focus:outline-none focus:ring-1 focus:ring-black">
             </div>
             <div class="flex flex-col flex-1">
               <label class="text-gray-700 font-extralight">Max Price</label>
-              <input type="text" placeholder="" class="p-2 transition duration-300 transform border-b border-gray-300 focus:outline-none focus:ring-1 focus:ring-black">
+              <input type="text" placeholder="" class="p-2 transition duration-300 transform border-0 border-b border-gray-300 focus:outline-none focus:ring-1 focus:ring-black">
             </div>
           </div>
 
@@ -92,7 +92,7 @@ import LogoCarousel from './layouts/LogoCarousel.vue';
     </div>
   </div>
 
-  <div class="bg-gray-100 mt-30">
+  <!-- <div class="bg-gray-100 mt-30">
     <LogoCarousel
       :logos="[
         '/images/comp1.png',
@@ -102,5 +102,5 @@ import LogoCarousel from './layouts/LogoCarousel.vue';
       ]"
       :speed="25"
     />
-  </div>
+  </div> -->
 </template>
